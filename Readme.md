@@ -499,8 +499,15 @@ The LICENSE of each model is located inside its corresponding directory.
         </sub>
       </a>
     </td>
-  </tr>
-</table>
+    <td align="center">
+      <a href="[https://github.com/Zzamani80](https://github.com/Zzamani80)">
+        <img src="(https://avatars.githubusercontent.com/u/103884658?v=4)" width="100px;" alt="Zahra Zamanshoar"/><br>
+        <sub>
+          <b>Zahra Zamanshoar</b>
+        </sub>
+      </a>
+    </td>
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
